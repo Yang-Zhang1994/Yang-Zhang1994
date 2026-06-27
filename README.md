@@ -1,3 +1,5 @@
+**MSCS @ Northeastern Vancouver | Full-stack & microservices | GrainMart**
+
 ### Hi, I'm Yang Zhang
 
 MSCS @ **Northeastern University** (Vancouver) · GPA 4.0/4.0
