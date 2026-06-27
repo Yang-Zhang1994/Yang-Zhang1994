@@ -10,7 +10,7 @@ MSCS @ **Northeastern University** (Vancouver) · GPA 4.0/4.0
 |---------|------|
 | GrainMart (microservices) | [ecommerce-microservices-backend](https://github.com/Yang-Zhang1994/ecommerce-microservices-backend) |
 | BC PhysEd (EdTech APIs) | [bc-physed-digital-learning-tool](https://github.com/Yang-Zhang1994/bc-physed-digital-learning-tool) |
-| SmartChef (live demo) | [final-project-kangaroo.vercel.app](https://final-project-kangaroo.vercel.app) |
+| SmartChef (recipe app) | [smartchef](https://github.com/Yang-Zhang1994/smartchef) · [live demo](https://final-project-kangaroo.vercel.app) |
 | LinkedIn | [yang-zhang-527094327](https://linkedin.com/in/yang-zhang-527094327) |
 
 Open to **Fall 2026 co-op** · Full-stack, microservices, cloud delivery
